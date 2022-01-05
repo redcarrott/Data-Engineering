@@ -1,0 +1,16 @@
+{"contest": "Farmers's Almanac", "outcome": "won"}
+{"contest": "Farmers's Almanac", "outcome": "lost"}
+{"contest": "Vegetarian Nutrition", "outcome": "won"}
+{"contest": "Vegetarian Nutrition", "outcome": "lost"}
+{"contest": "Bake Off", "outcome": "won"}
+{"contest": "Bake Off", "outcome": "lost"}
+{"contest": "Le Best Chef", "outcome": "won"}
+{"contest": "Le Best Chef", "outcome": "lost"}
+{"contest": "Taste of Home", "outcome": "won"}
+{"contest": "Taste of Home", "outcome": "lost"}
+{"contest": "Call Me Betty Crocker", "outcome": "won"}
+{"contest": "Call Me Betty Crocker", "outcome": "lost"}
+{"contest": "Nutty November", "outcome": "won"}
+{"contest": "Nutty November", "outcome": "lost"}
+{"contest": "Feast and Field", "outcome": "won"}
+{"contest": "Feast and Field", "outcome": "won"}

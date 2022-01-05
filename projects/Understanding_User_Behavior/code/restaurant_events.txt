@@ -1,0 +1,7 @@
+{"restaurant_name": "Promiscuous Fork", "special_ingredient": "MSG"}
+{"restaurant_name": "Uncooked", "special_ingredient": "Ginger"}
+{"restaurant_name": "Call Your Mother", "special_ingredient": "Nutmeg"}
+{"restaurant_name": "Hot Chix", "special_ingredient": "Mustard Seeds"}
+{"restaurant_name": "Patati Patata", "special_ingredient": "Gold Flakes"}
+{"restaurant_name": "Girl and the Goat", "special_ingredient": "Cayenne"}
+{"restaurant_name": "The Angry Avocado", "special_ingredient": "Avocado"}
