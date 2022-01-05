@@ -18,6 +18,6 @@ Track user behavior in stream mode and prepare the infrastructure to land data i
 - Produce analytics report for development and design teams with analysis of events
 
 Useful Links: \
-[Final Report](https://github.com/mids-w205-schioberg/project-3-redcarrott/blob/assignment/REPORT.ipynb) \
-[Project instructions](https://github.com/mids-w205-schioberg/project-3-redcarrott/blob/assignment/instructions.md)
+[Final Report](https://github.com/redcarrott/Data-Engineering/blob/main/projects/Understanding_User_Behavior/REPORT.ipynb) \
+[Project instructions](https://github.com/redcarrott/Data-Engineering/blob/main/projects/Understanding_User_Behavior/instructions.md)
 
